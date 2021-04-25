@@ -1,7 +1,6 @@
 # Bisection Method Calculator
 
 The Bisection method is one of the simplest numerical methods to find the zero or root of a non-linear function. The bisection method is also called interval halving method because it divides the interval into two equal parts. Half of the interval is thrown away. The procedure in bisection method is repeated until the desired interval size or iteration is obtained.
-Objective.
 
 
 ![sneak](images/repo_image/sneak_peak.PNG)
